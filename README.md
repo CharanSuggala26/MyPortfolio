@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 [https://my-portfolio-lovat-six-79.vercel.app/](https://my-portfolio-lovat-six-79.vercel.app/)
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -15,7 +15,6 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 - **Animations**: Framer Motion,CSS Animations
 - **Form Handling**: EmailJS
 
----
 
 ## 📂 Features
 
@@ -27,7 +26,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 
 
----
+
 
 
 ## 🛠️ Installation & Setup
@@ -41,3 +40,4 @@ cd your-portfolio
 npm install
 
 npm start
+```
